@@ -7,7 +7,7 @@
     <title>Ìîé ïåðâûé ñàéò</title>
 </head>
 <body>
-my sincere wish: <video width="700" height="600" controls >
+<video width="700" height="600" controls >
   <source src="kkiyfffw_2025-01-19-13-53-59_1737284039251.mp4" type="video/mp4"> 
   <source src="movie.webm" type="video/webm">
   Your browser does not support the video tag.
