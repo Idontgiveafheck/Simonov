@@ -1,6 +1,5 @@
 # Wishlist
 ## Мое честное желание:
-<!DOCTYPE html>
 <html lang="ru">
 <head>
     <meta charset="UTF-8">
@@ -8,7 +7,7 @@
     <title>Ìîé ïåðâûé ñàéò</title>
 </head>
 <body>
-my sincere wish: <video width="1800" height="1700" controls >
+my sincere wish: <video width="1000" height="900" controls >
   <source src="kkiyfffw_2025-01-19-13-53-59_1737284039251.mp4" type="video/mp4"> 
   <source src="movie.webm" type="video/webm">
   Your browser does not support the video tag.
